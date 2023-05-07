@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
+
+
+html {
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size:100% 100%;
+}
+
+body,
+#lineinput label,
+#lineinput input {
+    background-color: transparent;
+    color: #b8b8b8;
+    font-family: 'Gentium Plus', serif;
+	font-size: 125%;
+	-webkit-text-size-adjust: none;
+}
+
+#vorple {
+	background-image: url("bg.jpg");
+	min-height: 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size:100% 100%;
+  }
+
+.container {
+	margin-top: 2em;
+}
+
+#output, label, input {
+    background-color: #474242;
+}
+
+#output {
+    border: 2px solid #000000;
+    box-shadow: 2px 2px 3px #2f2f2f;
+    margin: 15px auto;
+    max-width: 720px;
+    padding: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+a:hover {
+	text-decoration: none;
+	color: rgb(36, 1, 36);
+}
+
+.testsomething{
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+}
+
+.redflowerlink
+{
+	text-decoration: none;
+	color: rgb(107, 5, 5);
+}
+
+.lotuslink
+{
+	text-decoration: none;
+	color: rgb(4, 46, 109);
+}
+
+
+.ghostly{
+		color: rgb(93, 124, 123);
+		font-size: 89%;
+		font-weight: bold;
+	
+}
+
+.carved{
+	color: #4e4d4d(122, 122, 122);
+	font-family: cursive;
+	font-size: 95%;
+	-webkit-text-size-adjust: none;
+	text-shadow: 2px 2px #000000;
+}
+
+
+.sculpt{
+	color: #99d4eb(122, 122, 122);
+	font-size: 92%;
+	text-shadow: 2px 2px #1a4660c9;;
+}
+
+.persephonstyle{
+	color: rgb(162, 55, 212);	
+}
+
+.wispvoice{
+	color: #9bbec1;
+	font-size: 100%;
+}
+
+.cantharoilink{
+	text-decoration-line: underline;  
+}
+
+.cyprwinelink{
+	text-decoration-line: underline;  
+}
+
+.cicadatext{
+	text-decoration-line: underline;  
+}
+
+.brohoodlink{
+	text-decoration-line: underline;  
+}
+
+.loukumades{
+	text-decoration-line: underline;  
+}
+
+.matarexpl{
+	text-decoration-line: underline;  
+}
+
+.momtext{
+	font-family: 'Raleway', sans-serif;
+}

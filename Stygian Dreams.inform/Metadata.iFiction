@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>3260A8EA-BF69-4B2E-959B-6460C737973C</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Stygian Dreams</title>
+            <author>GJM</author>
+            <headline>Self discovery, acceptance, and the difficulty of letting go.</headline>
+            <genre>Tragedy</genre>
+            <firstpublished>2023</firstpublished>
+            <description>Loss affects everyone, be it king or pawn. And when the queen is lost, the king is willing to do anything to bring her back. You don't really need to do much; Look at the sky, smell the flowers. Or simply trudge through the underworld, having lost sight of why you went there in the first place. The current state of the game is a 'first release' with further implementations expected later down the line. All images were created with AI, and maybe some of the text as well; See if you can find what was written by machine, what was written purely by hand, and what is an amalgamation of both!<br/>*Note that a few conversation nodes are only half-implemented, hence being in the back garden. Only one ending is achievable as it stands, further implementations will be available soon™</description>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <resources>
+            <auxiliary>
+                <leafname>bg.jpg</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>style.css</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>caveint.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>wisp1.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>Peaceful_grove.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>Lethargos.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>Lotoi.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>patrons.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>sculpture.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>Amelia.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>narcissus.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>Phaedra.png</leafname>
+                <description>--</description>
+            </auxiliary>
+            <auxiliary>
+                <leafname>walkout.png</leafname>
+                <description>--</description>
+            </auxiliary>
+        </resources>
+        <cover>
+            <format>png</format>
+            <height>512</height>
+            <width>512</width>
+            <description>An ancient greek man wading in stygian waters.</description>
+        </cover>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2023-04-13</releasedate>
+                    <version>122</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>Inform 10.1.2 (build )</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>Inform 10.1.2 (build )</generatorversion>
+            <originated>2023-04-13</originated>
+        </colophon>
+        <glulx>
+            <serial>230413</serial>
+            <release>122</release>
+            <compiler>Inform Inform 10.1.2 (build )</compiler>
+            <coverpicture>1</coverpicture>
+        </glulx>
+    </story>
+</ifindex>

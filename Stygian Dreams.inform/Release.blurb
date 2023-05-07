@@ -1,0 +1,82 @@
+! Blurb file created by Inform Inform 10.1.2 (build )
+
+status "C:\Users\Giorg\Desktop\IFproj\Internal\HTML\CblorbModel.html" "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.inform\Build\StatusCblorb.html"
+
+
+! Identification
+
+project folder "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.inform"
+release to "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Release"
+
+! Blorb instructions
+
+storyfile leafname "Stygian Dreams.gblorb"
+storyfile "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.inform\Build\output.ulx" include
+ifiction "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.inform\Metadata.iFiction" include
+cover "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Cover.png"
+picture 1 "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Cover.png"
+
+! Placeholder variables
+
+placeholder [IFID] = "3260A8EA-BF69-4B2E-959B-6460C737973C"
+placeholder [RELEASE] = "122"
+placeholder [YEAR] = "2023"
+placeholder [TITLE] = "Stygian Dreams"
+placeholder [AUTHOR] = "GJM"
+placeholder [BLURB] = "Loss affects everyone, be it king or pawn. And when the queen is lost, the king is willing to do anything to bring her back. You don't really need to do much; Look at the sky, smell the flowers. Or simply trudge through the underworld, having lost sight of why you went there in the first place. The current state of the game is a 'first release' with further implementations expected later down the line. All images were created with AI, and maybe some of the text as well; See if you can find what was written by machine, what was written purely by hand, and what is an amalgamation of both!<br/>*Note that a few conversation nodes are only half-implemented, hence being in the back garden. Only one ending is achievable as it stands, further implementations will be available soon™"
+
+! Other material to release
+
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\bg.jpg" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\style.css" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\caveint.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\wisp1.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Peaceful_grove.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Lethargos.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Lotoi.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\patrons.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\sculpture.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Amelia.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\narcissus.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Phaedra.png" "--" "--"
+auxiliary "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\walkout.png" "--" "--"
+
+! Website instructions
+
+placeholder [ENCODEDSTORYFILE] = "Stygian Dreams.gblorb.js"
+template path "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Templates"
+template path "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Templates"
+template path "C:\Users\Giorg\Documents\Inform\Templates"
+template path "C:\Users\Giorg\Desktop\IFproj\Internal\Templates"
+placeholder [INTERPRETERSCRIPTS] = " <link rel='stylesheet' href='style.css' type='text/css' media='all'></link>"
+interpreter "Vorple" "g"
+base64 "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.inform\Build\output.ulx" to "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Release\interpreter\Stygian Dreams.gblorb.js"
+
+! Website instructions
+
+template path "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Templates"
+template path "C:\Users\Giorg\Desktop\IFproj\localser\nginx-1.22.1\html\Stygian Dreams.materials\Templates"
+template path "C:\Users\Giorg\Documents\Inform\Templates"
+template path "C:\Users\Giorg\Desktop\IFproj\Internal\Templates"
+css
+website "Standard"
+status instruction ||&nbsp;<a href="source:story.ni#line11"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line12"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line13"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line14"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line16"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line17"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line18"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line19"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line20"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line21"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line22"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line23"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line24"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line25"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status instruction ||&nbsp;<a href="source:story.ni#line26"><img border=0 src=inform:/doc_images/Reveal.png></a>||
+status alternative ||Using 'Release along with the source text'&nbsp;<a href=inform:/doc410.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with a solution'&nbsp;<a href=inform:/doc409.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the library card'&nbsp;<a href=inform:/doc410.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory booklet'&nbsp;<a href=inform:/doc402.html><img border=0 src=inform:/doc_images/help.png></a>||
+status alternative ||Using 'Release along with the introductory postcard'&nbsp;<a href=inform:/doc402.html><img border=0 src=inform:/doc_images/help.png></a>||

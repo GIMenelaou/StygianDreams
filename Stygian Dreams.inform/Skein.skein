@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-3">
+  <generator>Windows Inform 10.1.2</generator>
+  <item nodeId="node-3">
+    <command xml:space="preserve">Stygian Dreams</command>
+    <result xml:space="preserve">You take the plunge. The freezing waters cut your breathing to a  final short, stuttered gasp. You taste the blood in your mouth and then quiet darkness envelops you.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-21"/>
+      <child nodeId="node-20"/>
+    </children>
+  </item>
+  <item nodeId="node-21">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Your eyes slowly adjust to the surroundings. This location feels intimately familiar, yet you know there's no way for you to actually have been here in your lifetime. After all this, is not your life, nor your time. &#x000A;&#x000A; &#x000A; We are alone &#x000A;Stygian Dreams&#x000A;An Interactive Fiction by GJM&#x000A;Release 1 / Serial number 230310 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Peaceful Glade.&#x000A;A place of stillness.&#x000A;&#x000A;You can see a wisp here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-22"/>
+    </children>
+  </item>
+  <item nodeId="node-22">
+    <command xml:space="preserve">x </command>
+    <result xml:space="preserve">What do you want to examine?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-23"/>
+    </children>
+  </item>
+  <item nodeId="node-23">
+    <command xml:space="preserve">wisp</command>
+    <result xml:space="preserve">A small moment of awkwardness passes before your gaze fixed on the odd life(?)form. You could swear momentarily that the wisp just _blinks_ at you, before it flies into a torrent of words. &#x000A; "-blabla-". &#x000A; confused by the logodiarrhoia you let your guard down momentarily, just enough for the wisp to place a tendril of faint light on your shoulder; A question, popping up in your head.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-24"/>
+    </children>
+  </item>
+  <item nodeId="node-24">
+    <command xml:space="preserve">x</command>
+    <result xml:space="preserve">The wisp is now known as .  aaa Khavi. aaav&#x000A;thirstyHe wishes to sipp. thirstyand even snack, my word hungry&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-25"/>
+    </children>
+  </item>
+  <item nodeId="node-25">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-26"/>
+    </children>
+  </item>
+  <item nodeId="node-26">
+    <command xml:space="preserve">x wisp</command>
+    <result xml:space="preserve">wisp nick .  wisp truen Khavi. &#x000A;thirstyHe wishes to sipp. thirsty&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-27"/>
+    </children>
+  </item>
+  <item nodeId="node-27">
+    <command xml:space="preserve">x wisp</command>
+    <result xml:space="preserve">wisp nick .  wisp truen Khavi. &#x000A;thirstyHe wishes to sipp. thirsty&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-28"/>
+    </children>
+  </item>
+  <item nodeId="node-28">
+    <command xml:space="preserve">x Khavi</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-20">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Your eyes slowly adjust to the surroundings. This location feels intimately familiar, yet you know there's no way for you to actually have been here in your lifetime. After all this, is not your life, nor your time.&#x000A;We are alone&#x000A;Stygian Dreams&#x000A;An Interactive Fiction by GJM&#x000A;Release 1 / Serial number 230310 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Peaceful Glade.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
